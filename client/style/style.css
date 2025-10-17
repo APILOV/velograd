@@ -65,11 +65,20 @@ header{
     background-position: center;
     background-repeat: no-repeat; 
     background-attachment: fixed; 
-}
-
-.hero {
     text-align: center;
 }
+.texthero{
+    color: #FFF;
+    padding: 64px;
+    font-family: 'Inter', sans-serif;
+}
+.title{
+    font-size: 32px;
+}
+.subtitle{
+    font-size: px
+}
+
 
 @media (max-width: 851px) {
     .menu{
